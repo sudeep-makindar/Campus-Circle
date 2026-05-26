@@ -1,0 +1,6 @@
+{
+  "name": "Campus Circle – VIT Chennai",
+  "description": "A visually stunning, arcade-inspired onboarding website for the 2025 batch (VIT'C '30) to find and join their verified WhatsApp communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

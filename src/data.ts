@@ -3,8 +3,8 @@ import { Branch } from './types';
 export const BRANCHES_DATA: Branch[] = [
   {
     id: 'cse',
-    abbreviation: 'CSE',
-    name: 'Computer Science & Engineering',
+    abbreviation: 'CSE CORE',
+    name: 'Computer Science & Engineering (Core)',
     domain: 'cs-it',
     colorTheme: {
       bg: 'bg-[#4B0082]/10',
@@ -75,7 +75,7 @@ export const BRANCHES_DATA: Branch[] = [
   },
   {
     id: 'cse-cyber',
-    abbreviation: 'CSE-CY',
+    abbreviation: 'CSE-CS',
     name: 'CSE with spec. in Cyber Security',
     domain: 'cs-it',
     colorTheme: {

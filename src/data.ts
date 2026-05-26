@@ -50,7 +50,7 @@ export const BRANCHES_DATA: Branch[] = [
       badgeBg: 'bg-blue-700',
       iconColor: '#60A5FA'
     },
-    verificationLink: 'https://chat.whatsapp.com/GIQ5tV08u5H5nvMDEB21Ph',
+    verificationLink: 'https://chat.whatsapp.com/GlQ5tV08u5H5nvMDEB21Ph',
     officialLink: 'https://chat.whatsapp.com/Fow4wZWooqLKvRxsZZ4356?s=cl&p=a&ilr=4&amv=2',
     description: 'Where code meets mechanics. Dive into intelligent systems, autonomous robotics, and AI-driven hardware.',
     representativeIcon: 'cpu'
@@ -68,7 +68,7 @@ export const BRANCHES_DATA: Branch[] = [
       badgeBg: 'bg-purple-800',
       iconColor: '#C9B8E8'
     },
-    verificationLink: 'https://chat.whatsapp.com/JbbpLwh1IZQDUmQKacSii8',
+    verificationLink: 'https://chat.whatsapp.com/JbhpLwh1IZQDUmQKacSii8',
     officialLink: 'https://chat.whatsapp.com/HC7t76ewAIJ8LMcPDHGAlL?s=cl&p=a&ilr=4&amv=2',
     description: 'Turning petabytes of campus logs into beautifully structured answers. Connect with math masterminds, statisticians, and visualizer gurus!',
     representativeIcon: 'database'
@@ -122,7 +122,7 @@ export const BRANCHES_DATA: Branch[] = [
       badgeBg: 'bg-amber-600',
       iconColor: '#FFBA08'
     },
-    verificationLink: 'https://chat.whatsapp.com/GGbsKi7rWji8a3naLQX1FZ',
+    verificationLink: 'https://chat.whatsapp.com/GGbsKi7rWij8a3naLQX1FZ?s=cl&p=a&ilr=4&amv=2',
     officialLink: 'https://chat.whatsapp.com/L8RnoFrVVQlHzYQIsryd4u?s=cl&p=a&ilr=4&amv=2',
     description: 'Waveforms, signal processing, and silicon design. Wire up with the engineers who bridge the physical ether with modern telemetry!',
     representativeIcon: 'radio'
@@ -140,7 +140,7 @@ export const BRANCHES_DATA: Branch[] = [
       badgeBg: 'bg-cyan-700',
       iconColor: '#06B6D4'
     },
-    verificationLink: 'https://chat.whatsapp.com/HeGlMWzlTpZCVq8KLfwbck',
+    verificationLink: 'https://chat.whatsapp.com/HeGIMwjzTpZCVq8KLfwbck?s=cl&p=a&ilr=4&amv=2',
     officialLink: 'https://chat.whatsapp.com/KgCSODcFeLlEoc6aR3QqXb?s=cl&p=a&ilr=4&amv=2',
     description: 'The perfect blend of hardware electronics and software engineering. Join the creators of embedded systems and microcontrollers!',
     representativeIcon: 'cpu'
@@ -158,7 +158,7 @@ export const BRANCHES_DATA: Branch[] = [
       badgeBg: 'bg-amber-700',
       iconColor: '#F97316'
     },
-    verificationLink: 'https://chat.whatsapp.com/CYBoYxAS8Pq3VXD6d34lhJ',
+    verificationLink: 'https://chat.whatsapp.com/CYBoYxAS8Pq3VXD6d34IhJ?s=cl&p=a&ilr=4&amv=2',
     officialLink: 'https://chat.whatsapp.com/HBylhmhYMAjLp5Tk1qUgsH?s=cl&p=a&ilr=4&amv=2',
     description: 'High-voltage masters and macro circuits. Harnessing pure collegiate current. Grab a slot and sync up on motors, solar, and power grids!',
     representativeIcon: 'zap'
@@ -176,7 +176,7 @@ export const BRANCHES_DATA: Branch[] = [
       badgeBg: 'bg-teal-700',
       iconColor: '#14B8A6'
     },
-    verificationLink: 'https://chat.whatsapp.com/I9wDpKskZ6L4nXRAodbE7L',
+    verificationLink: 'https://chat.whatsapp.com/I9wDpKskZ6L4nXRAodbE7L?s=cl&p=a&ilr=4&amv=2',
     officialLink: 'https://chat.whatsapp.com/CtyAyNe0XuaJNjwfEj1SNa?s=cl&p=a&ilr=4&amv=2',
     description: 'Uniting electronics with computer science. Dive into hardware acceleration, digital logic, and advanced computing architectures.',
     representativeIcon: 'hard-drive'
@@ -194,7 +194,7 @@ export const BRANCHES_DATA: Branch[] = [
       badgeBg: 'bg-indigo-600',
       iconColor: '#818CF8'
     },
-    verificationLink: 'https://chat.whatsapp.com/JizwUPIkIRIlVjw0OWPMj1',
+    verificationLink: 'https://chat.whatsapp.com/JjzwUPIklRIIVjw0OWPMj1?s=cl&p=a&ilr=4&amv=2',
     officialLink: 'https://chat.whatsapp.com/HlWWSj0pFVLCoBDMCTS66l?s=cl&p=a&ilr=4&amv=2',
     description: 'Very Large Scale Integration. Shrinking billions of transistors into a single chip. The true architects of modern processors.',
     representativeIcon: 'cpu' 
@@ -212,7 +212,7 @@ export const BRANCHES_DATA: Branch[] = [
       badgeBg: 'bg-[#C1440E]',
       iconColor: '#FF6B35'
     },
-    verificationLink: 'https://chat.whatsapp.com/CRYGgaNOFdsANw9OWSUD3l',
+    verificationLink: 'https://chat.whatsapp.com/CRYGgaNOFdsANw9OWSUD3I',
     officialLink: 'https://chat.whatsapp.com/LhW9JCdnT2cDPWrKkoSBwP?s=cl&p=a&ilr=4&amv=2',
     description: 'Thermodynamics, gear teeth, Aerodynamics, and solid CAD. Join the creators of heavy metal, robotic lifters, and formulas racers.',
     representativeIcon: 'settings'
@@ -230,7 +230,7 @@ export const BRANCHES_DATA: Branch[] = [
       badgeBg: 'bg-orange-700',
       iconColor: '#F97316'
     },
-    verificationLink: 'https://chat.whatsapp.com/DxrFhj8kR2WBGqHUxdI3Jy',
+    verificationLink: 'https://chat.whatsapp.com/DxrFhj8kR2WBGqHUxdI3Jy?s=cl&p=a&ilr=4&amv=2',
     officialLink: 'https://chat.whatsapp.com/K1FrBOxe8iX4rXlBGlDSk7?s=cl&p=a&ilr=4&amv=2',
     description: 'The intersection of mechanical, electrical, and computer engineering. Build intelligent machines, automated systems, and robots.',
     representativeIcon: 'settings'
@@ -248,7 +248,7 @@ export const BRANCHES_DATA: Branch[] = [
       badgeBg: 'bg-yellow-900',
       iconColor: '#FAF3E0'
     },
-    verificationLink: 'https://chat.whatsapp.com/J4ilR5E6aTz5MX0wyA0ryR',
+    verificationLink: 'https://chat.whatsapp.com/J4iIR5E6aTz5MX0wyA0ryR?s=cl&p=a&ilr=4&amv=2',
     officialLink: 'https://chat.whatsapp.com/Bl6t67s4WFa8J9xYU0rqSh?s=cl&p=a&ilr=4&amv=2',
     description: 'The monumental builders of empires. Connect with structural designers, concrete specialists, and urban planners of the #30 batch!',
     representativeIcon: 'building'

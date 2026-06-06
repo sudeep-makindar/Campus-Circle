@@ -270,5 +270,23 @@ export const BRANCHES_DATA: Branch[] = [
     officialLink: 'https://chat.whatsapp.com/JouV4W6Q920CBxcBCTUC7t?s=cl&p=a&ilr=4&amv=2',
     description: 'Design, textiles, and modern apparel technology. Join the trendsetters and fabric engineers shaping the future of fashion.',
     representativeIcon: 'scissors'
+  },
+  {
+    id: 'biotech',
+    abbreviation: 'BT',
+    name: 'Biotechnology',
+    domain: 'other',
+    colorTheme: {
+      bg: 'bg-green-950/40',
+      border: 'border-green-500',
+      text: 'text-green-200',
+      glow: 'shadow-[0_0_15px_rgba(34,197,94,0.6)]',
+      badgeBg: 'bg-green-700',
+      iconColor: '#22C55E'
+    },
+    verificationLink: 'https://chat.whatsapp.com/HV4XmhXRPEa1wGHZ08BIzt?s=cl&p=a&ilr=4',
+    officialLink: 'https://chat.whatsapp.com/GLYBVzcXyaoDqL4h6Guedz',
+    description: 'Genetics, bioprocessing, and molecular engineering. Connect with the lab innovators decoding life and building the future of biology.',
+    representativeIcon: 'flask'
   }
 ];
